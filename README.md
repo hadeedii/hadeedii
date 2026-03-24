@@ -1,51 +1,87 @@
 ## Hi there 👋 I'm Hudaid Ajmal
 
-🚀 **Freelance Web & Desktop App Developer**  
-I build fast, scalable, and user-focused applications that solve real-world problems.
+🚀 Freelance Web & Desktop App Developer  
+💡 I build scalable apps, AI tools & real-world solutions  
 
 ---
 
-### 🔭 I’m currently working on
-- Full-stack web applications  
-- Desktop apps with modern UI/UX  
-- AI-powered tools & automation projects  
+## 🧠 AI / ML Vibes
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 
 ---
 
-### 🌱 I’m currently learning
-- Advanced React & system design  
-- Cloud (Firebase, APIs, deployment)  
-- AI integrations for real-world products  
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,html,css,firebase,cpp,git,github,vscode" />
+</p>
 
 ---
 
-### 👯 I’m looking to collaborate on
-- Startups & SaaS products  
-- Innovative web/AI projects  
-- Open-source contributions  
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hadeedii&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadeedii&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-### 🤔 I’m looking for help with
-- Scaling large applications  
-- Advanced backend architecture  
-- Performance optimization  
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hadeedii&theme=tokyonight" />
+</p>
 
 ---
 
-### 💬 Ask me about
-- Web development (Frontend + Backend)  
-- Desktop applications  
-- Freelancing & client projects  
-- Firebase & real-time apps  
+### 🌍 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hadeedii&theme=tokyo-night" />
+</p>
 
 ---
 
-### 📫 How to reach me
-- Email: hudaidajmal1001@gmail.com  
-- Portfolio: https://portfolio-hudaids-projects.vercel.app/  
+## 🎯 Featured Projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hadeedii&repo=LawPortal&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hadeedii&repo=GPAPro&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hadeedii&repo=BookCycle&theme=tokyonight" />
+</p>
 
 ---
 
-### ⚡ Fun fact
-I can turn an idea into a working product faster than you expect 🚀
+### 🚀 Current Focus
+- 🔭 Building Full-Stack Apps  
+- 🤖 Exploring AI + Automation  
+- 📱 Creating Real-World Products  
+
+---
+
+### 🤝 Let's Collaborate
+- Startups 🚀  
+- SaaS Products 💻  
+- AI Tools 🤖  
+
+---
+
+## 🌐 Visitor Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hadeedii&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+### 📫 Connect With Me
+<p>
+  <a href="mailto:hudaidajmal1001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-hudaids-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+I turn ideas into real working products — fast 🚀
